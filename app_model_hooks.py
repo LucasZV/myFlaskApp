@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 
 os.chdir(os.path.dirname(__file__))
 
-
+# lalalalala
 app = Flask(__name__)
 app.config["DEBUG"] = True
 
